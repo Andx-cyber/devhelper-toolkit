@@ -27,8 +27,8 @@ DevHelper includes the following tools:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/devhelper.git
-   cd devhelper
+   git clone https://github.com/Andx-cyber/devhelper-toolkit.git
+   cd devhelper-toolkit
    \`\`\`
 
 2. Install dependencies:
